@@ -1,2 +1,2 @@
-# cp202supreme
-https://hexx0960.github.io/cp202supreme/
+# NorthernThreads
+https://hexx0960.github.io/NorthernThreads/
